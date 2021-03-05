@@ -5,7 +5,7 @@ const EditProductScreen = () => {
   return (
     <View>
       <Text>Edit Product Screen</Text>
-      <Text>Maia just added this line.</Text>
+      <Text>Maia just changed this line.</Text>
     </View>
   );
 };
